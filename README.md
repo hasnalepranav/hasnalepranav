@@ -56,7 +56,7 @@ I enjoy learning new technologies, exploring how things work, and building my te
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" />
+<img src="https://github-readme-stats.vercel.app/api?username=hasnalepranav&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" />
 
 <br><br>
 
