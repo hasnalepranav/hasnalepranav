@@ -70,20 +70,12 @@ I enjoy learning new technologies, exploring how things work, and building my te
 
 <div align="center">
 
-<a href="[https://github.com/hasnalepranav](https://github.com/hasnalepranav)">
+<a href="https://github.com/hasnalepranav">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/">
+<a href="YOUR_LINKEDIN_URL">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6C63FF&height=100&section=footer"/>
 
 </div>
