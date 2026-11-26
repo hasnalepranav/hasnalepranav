@@ -60,7 +60,7 @@ I enjoy learning new technologies, exploring how things work, and building my te
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&border_radius=15" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hasnalepranav&theme=tokyonight&hide_border=true&border_radius=15" />
 
 </div>
 
