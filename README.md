@@ -2,7 +2,9 @@
 
 # 👋 Hi, I'm **Hasnale Pranav Shivdas**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=BCA+Graduate+%7C+Cloud+Enthusiast;Currently+Learning+Cloud+%26+DevOps;Always+Learning+%26+Building+%F0%9F%9A%80" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=BCA+Graduate;Always+Learning+%26+Building+%F0%9F%9A%80" />
+</p>
 
 <br>
 
@@ -12,13 +14,11 @@
 
 ## 👨‍💻 About Me
 
-Hi! I'm **Hasnale Pranav Shivdas**, a BCA graduate with a strong interest in **Cloud Computing and modern technologies**.
+Hi! I'm **Hasnale Pranav Shivdas**, a BCA graduate with a strong interest in **Modern Technologies**.
 
 I enjoy learning new technologies, exploring how things work, and building my technical skills through practical projects.
 
-☁️ **Cloud Enthusiast**
 💻 **Technology Learner**
-🚀 **Future Cloud Professional**
 
 ---
 
@@ -41,8 +41,7 @@ I enjoy learning new technologies, exploring how things work, and building my te
 <img src="https://skillicons.dev/icons?i=aws,azure,linux,docker,git,github,python" />
 
 <br><br>
-
-☁️ **Cloud Computing**   •  
+  
 🐧 **Linux**   •  
 🐳 **Docker**   •  
 🔧 **Git & GitHub**   •  
